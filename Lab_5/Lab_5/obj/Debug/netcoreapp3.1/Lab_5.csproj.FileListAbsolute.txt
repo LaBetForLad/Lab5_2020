@@ -1,0 +1,13 @@
+E:\KS19\2 курс\ООП\Lab_5\Lab_5\bin\Debug\netcoreapp3.1\Lab_5.exe
+E:\KS19\2 курс\ООП\Lab_5\Lab_5\bin\Debug\netcoreapp3.1\Lab_5.deps.json
+E:\KS19\2 курс\ООП\Lab_5\Lab_5\bin\Debug\netcoreapp3.1\Lab_5.runtimeconfig.json
+E:\KS19\2 курс\ООП\Lab_5\Lab_5\bin\Debug\netcoreapp3.1\Lab_5.runtimeconfig.dev.json
+E:\KS19\2 курс\ООП\Lab_5\Lab_5\bin\Debug\netcoreapp3.1\Lab_5.dll
+E:\KS19\2 курс\ООП\Lab_5\Lab_5\bin\Debug\netcoreapp3.1\Lab_5.pdb
+E:\KS19\2 курс\ООП\Lab_5\Lab_5\obj\Debug\netcoreapp3.1\Lab_5.csprojAssemblyReference.cache
+E:\KS19\2 курс\ООП\Lab_5\Lab_5\obj\Debug\netcoreapp3.1\Lab_5.AssemblyInfoInputs.cache
+E:\KS19\2 курс\ООП\Lab_5\Lab_5\obj\Debug\netcoreapp3.1\Lab_5.AssemblyInfo.cs
+E:\KS19\2 курс\ООП\Lab_5\Lab_5\obj\Debug\netcoreapp3.1\Lab_5.csproj.CoreCompileInputs.cache
+E:\KS19\2 курс\ООП\Lab_5\Lab_5\obj\Debug\netcoreapp3.1\Lab_5.dll
+E:\KS19\2 курс\ООП\Lab_5\Lab_5\obj\Debug\netcoreapp3.1\Lab_5.pdb
+E:\KS19\2 курс\ООП\Lab_5\Lab_5\obj\Debug\netcoreapp3.1\Lab_5.genruntimeconfig.cache
