@@ -1,0 +1,10 @@
+E:\KS19\2 курс\ООП\Lab_5_add\Lab_5_add\bin\Debug\Lab_5_add.exe.config
+E:\KS19\2 курс\ООП\Lab_5_add\Lab_5_add\bin\Debug\Lab_5_add.exe
+E:\KS19\2 курс\ООП\Lab_5_add\Lab_5_add\bin\Debug\Lab_5_add.pdb
+E:\KS19\2 курс\ООП\Lab_5_add\Lab_5_add\obj\Debug\Lab_5_add.csprojAssemblyReference.cache
+E:\KS19\2 курс\ООП\Lab_5_add\Lab_5_add\obj\Debug\Lab_5_add.Form1.resources
+E:\KS19\2 курс\ООП\Lab_5_add\Lab_5_add\obj\Debug\Lab_5_add.Properties.Resources.resources
+E:\KS19\2 курс\ООП\Lab_5_add\Lab_5_add\obj\Debug\Lab_5_add.csproj.GenerateResource.cache
+E:\KS19\2 курс\ООП\Lab_5_add\Lab_5_add\obj\Debug\Lab_5_add.csproj.CoreCompileInputs.cache
+E:\KS19\2 курс\ООП\Lab_5_add\Lab_5_add\obj\Debug\Lab_5_add.exe
+E:\KS19\2 курс\ООП\Lab_5_add\Lab_5_add\obj\Debug\Lab_5_add.pdb
